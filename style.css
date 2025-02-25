@@ -61,3 +61,19 @@ li {
     margin: 5px 0;
     border-radius: 5px;
 }
+
+/* Media Queries para Responsividade */  
+@media (max-width: 768px) {  
+    .container {  
+        width: 85%;  
+        padding: 25px; 
+    }  
+
+    input {  
+        width: 80%; 
+    }  
+
+    button {  
+        width: 50%; 
+    }  
+}  
