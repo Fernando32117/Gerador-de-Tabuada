@@ -13,11 +13,12 @@
     }
 }
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Playwrite IT Moderna", cursive;
     text-align: center;
     margin: 50px;
-    background: linear-gradient(to right, #ff9966, #ff5e62);
-    color: white;
+    background: url('numbers.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: black;
 }
 .container {
     background: rgba(255, 255, 255, 0.2);
@@ -27,6 +28,7 @@ body {
     display: inline-block;
 }
 input {
+    font-family: "Playwrite IT Moderna", cursive;
     padding: 10px;
     margin: 10px;
     width: 120px;
